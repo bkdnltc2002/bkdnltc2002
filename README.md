@@ -1,4 +1,4 @@
-[![MasterHead](https://pin.it/3Ve0RNc)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://pin.it/3Ve0RNc))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A Data Analyst from Vietnam</h3>
 (img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
