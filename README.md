@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A Data Analyst from Vietnam</h3>
-<img align="right" alt="Coding" width="300" top: 20px src="https://camo.githubusercontent.com/f6706dfd5a13d4c3690845f968735da9c48b38e4d40ef00f3473bf9affc52061/68747470733a2f2f7777772e74656368626162626c652e7a6f6e652f636f6e74656e742f696d616765732f323032312f30372f34363230372d70726f6772616d6d65722d312e676966">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkdnltc2002" alt="bkdnltc2002" /></a> </p>
+<img align="right" alt="Coding" width="300" top: 20px src="https://camo.githubusercontent.com/f6706dfd5a13d4c3690845f968735da9c48b38e4d40ef00f3473bf9affc52061/68747470733a2f2f7777772e74656368626162626c652e7a6f6e652f636f6e74656e742f696d616765732f323032312f30372f34363230372d70726f6772616d6d65722d312e676966">
 
 - 🌱 I’m currently learning **Python**
 
