@@ -1,5 +1,7 @@
+[![MasterHead](https://pin.it/3Ve0RNc)]
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A Data Analyst from Vietnam</h3>
+(img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkdnltc2002" alt="bkdnltc2002" /></a> </p>
 
