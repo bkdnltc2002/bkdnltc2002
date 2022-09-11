@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif))]
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A Data Analyst from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkdnltc2002" alt="bkdnltc2002" /></a> </p>
 
