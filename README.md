@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [github.com/bkdnltc2002](github.com/bkdnltc2002)
+- 👨‍💻 All of my projects are available at [https://github.com/bkdnltc2002/bkdnltc2002.git](https://github.com/bkdnltc2002/bkdnltc2002.git)
 
 - 📫 How to reach me **thanhnguyenxuan970@gmail.com**
 
