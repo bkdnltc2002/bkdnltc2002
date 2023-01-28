@@ -1,2 +1,0 @@
-*.json filter=lfs diff=lfs merge=lfs -text
-C:/Users/Admin/Desktop/bkdnltc2002/Yep_DA/yelp_dataset.json filter=lfs diff=lfs merge=lfs -text
